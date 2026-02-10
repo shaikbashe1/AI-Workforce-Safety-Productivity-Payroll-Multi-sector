@@ -1,0 +1,7 @@
+{
+  "name": "MineGuard AI Workforce Manager",
+  "description": "A robust workforce management and payroll calculation system utilizing Gemini AI for precision salary processing, PPE detection, and an advanced admin dashboard.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
